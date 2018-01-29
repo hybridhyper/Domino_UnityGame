@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EscenaMenus/ControladorEscenaInicio.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EscenaMenus/ControladorEscenaInicio.cs" Line="14" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PruebaDomino PreferredExecutionTarget="Unity.Editor" />
+</Properties>

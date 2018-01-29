@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDomino", "PruebaDomino.csproj", "{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDomino.Plugins", "PruebaDomino.Plugins.csproj", "{E8ADC96F-369C-CF00-F6F1-B534BBC42AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDomino.Editor.Plugins", "PruebaDomino.Editor.Plugins.csproj", "{0300FF05-3633-76FD-9F06-318112425D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEE872D-78E9-2E33-8CB7-4FAB64E8FA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ADC96F-369C-CF00-F6F1-B534BBC42AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ADC96F-369C-CF00-F6F1-B534BBC42AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ADC96F-369C-CF00-F6F1-B534BBC42AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ADC96F-369C-CF00-F6F1-B534BBC42AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0300FF05-3633-76FD-9F06-318112425D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0300FF05-3633-76FD-9F06-318112425D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0300FF05-3633-76FD-9F06-318112425D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0300FF05-3633-76FD-9F06-318112425D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
